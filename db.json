@@ -10,13 +10,13 @@
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 12.02
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 100.02
     },
     {
       "id": 4,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Iris",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszYPSoXYJ4PJAHin5DUzczOx1lGcqRuMpnLz2d6y9AG_lOZ8r8wZ6lQL5wyFnwXazvzA&usqp=CAU",
+      "price": 10,
+      "id": 8
     }
   ]
 }
